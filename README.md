@@ -1,0 +1,2 @@
+# SoulMateMatchingAlgorithm
+男女匹配算法，在四柱八字和星盘合盘的基础上总结而成
